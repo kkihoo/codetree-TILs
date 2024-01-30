@@ -3,7 +3,7 @@ using namespace std;
 int main() {
     int n;
     cin >> n;
-    if (n > 80){
+    if (n >= 80){
         cout << "pass";
     }
     else {
